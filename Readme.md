@@ -1,0 +1,1 @@
+The project has been migrated to https://github.com/openrsgis/pytdml, which can be accessed via the link above.
